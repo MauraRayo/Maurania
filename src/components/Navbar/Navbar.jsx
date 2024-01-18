@@ -10,7 +10,7 @@ export const Navbar = () => {
 
     return (
       <nav className={styles.navbar}> 
-        <img className={styles.title} src="/assets/logo/logoMR.jpg" alt="MR" />
+        <img className={styles.title} src={getImageUrl("logo/logoMR.jpg")} alt="MR" />
         <div className={styles.menu}>
            <img className={styles.menuBtn}
             src={
