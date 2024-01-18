@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Jobbe ETT",
+    "imageSrc": "projects/jobbe.png",
+    "description": "La página web de Jobbe ETT incluye secciones variadas como noticias y contacto,uso de plugins que mejoran la experiencia del usuario",
+    "skills": ["WordPress", "PHP", "JavaScript"],
+    "demo": "https://www.jobbe.es/wp/"
+  },
+  {
+    "title": "Walt HR",
+    "imageSrc": "projects/walt.png",
+    "description": "Mantenimiento y actualización constante de la página web.",
+    "skills":["WordPress", "PHP", "JavaScript"],
+    "demo": "https://www.walt.es/"
+    
+  },
+  {
+    "title": "Maquetación",
+    "imageSrc": "projects/maquetacion.png",
+    "description": "Diseño de plantillas para felicitaciones, bienvenidas, entre otros.",
+    "skills":["HTML", "CSS", "JavaScript"],
+    "demo": "#"
+    
+  }
+]

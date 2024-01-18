@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project D",
+      "imageSrc": "personal/walt.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Makeup",
+      "imageSrc": "personal/walt.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["WordPress", "Elementor Free"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project F",
+      "imageSrc": "personal/walt.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

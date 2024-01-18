@@ -1,0 +1,47 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title":"Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title":"Javascrip",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+    "title": "vue",
+    "imageSrc": "skills/vue.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Strapi",
+      "imageSrc": "skills/strapi.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "WordPress",
+      "imageSrc": "skills/wordPress.png"
+    },
+    {
+      "title": "Elementor",
+      "imageSrc": "skills/elementor.png"
+    }
+
+  ]
