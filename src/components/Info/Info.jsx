@@ -14,10 +14,11 @@ export const Info = () =>{
                     <a href="https://www.linkedin.com/in/maurarayo/" target="_black"> <img src={getImageUrl("contact/linkedinIcon.png")} alt="in/maurarayo/"/></a>
                     <a href="https://github.com/MauraRayo" target="_black"> <img src={getImageUrl("contact/githubIcon.png")} alt="github.com/MauraRayo" /></a>
                 </div>
-                <button className={styles.contactBtn}>
-                    <a href="/assets/contact/CVMauraniaRayo.pdf" download="CVMauraniaRayo" > Descargar CV </a>
-                </button>
+                <div className={styles.contactBtn}>
+                     <a href="/assets/contact/CVMauraniaRayo.pdf" download>Descargar CV</a>
+                 </div>
             </div>
+
             <img src={getImageUrl("hero/heroImage.png")} alt="Personaje"  className={styles.heroImg}/>
             <div className={styles.topBlur} />
             <div className={styles.bottomBlur} />

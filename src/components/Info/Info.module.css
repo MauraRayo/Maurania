@@ -69,9 +69,10 @@
 
 
 .contactoBtn img{
-    width: 3%;
+    width: 5%;
     margin: 2%;;
 }
+
 .contactoBtn a{
  text-decoration: none !important;
 }
