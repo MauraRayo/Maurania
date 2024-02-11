@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./Info.module.css"
-import {getImageUrl} from "../../utils";
+import {getImageUrl, getPdfUrl} from "../../utils";
 
 export const Info = () =>{
     return ( 
@@ -15,7 +15,7 @@ export const Info = () =>{
                     <a href="https://github.com/MauraRayo" target="_black"> <img src={getImageUrl("contact/githubIcon.png")} alt="github.com/MauraRayo" /></a>
                 </div>
                 <div className={styles.contactBtn}>
-                     <a href="/assets/contact/CVMauraniaRayo.pdf" download>Descargar CV</a>
+                     <a href={getPdfUrl("contact/CVMauraniaRayo.pdf")} download>Descargar CV</a>
                  </div>
             </div>
 
