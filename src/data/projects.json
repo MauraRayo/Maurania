@@ -2,15 +2,17 @@
   {
     "title": "Jobbe ETT",
     "imageSrc": "projects/jobbe.png",
-    "description": "La página web de Jobbe ETT incluye secciones variadas como noticias y contacto,uso de plugins que mejoran la experiencia del usuario",
+    "description": "Diseño y desarrollo de la página web, Implementación de herramientas y plugins, mantenimiento y actualización constante. ",
     "skills": ["WordPress", "PHP", "JavaScript"],
+    "date": "2022-2023",
     "demo": "https://www.jobbe.es/wp/"
   },
   {
     "title": "Walt HR",
     "imageSrc": "projects/walt.png",
-    "description": "Mantenimiento y actualización constante de la página web.",
+    "description": "mantenimiento de la página web y actualización constante.",
     "skills":["WordPress", "PHP", "JavaScript"],
+    "date":"2022-2024",
     "demo": "https://www.walt.es/"
     
   },
