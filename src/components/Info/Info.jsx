@@ -8,7 +8,7 @@ export const Info = () =>{
         <section className={styles.container}>
             <div className={styles.content}>
                 <h2 className={styles.title} >Hi, Soy Maurania</h2>
-                <p className={styles.trabajo}>Frontend Developer en <a href="https://www.jobbe.es/wp/">Jobbe ETT</a></p>
+                <p className={styles.trabajo}>Frontend Developer</p>
                 <div className={styles.contactoBtn}>
                     <a href="mailto:maurarayo3@gmail.com" > <img src={getImageUrl("contact/emailIcon.png")} alt="maurarayo3@gmail.com" /></a>
                     <a href="https://www.linkedin.com/in/maurarayo/" target="_black"> <img src={getImageUrl("contact/linkedinIcon.png")} alt="in/maurarayo/"/></a>
