@@ -19,10 +19,10 @@ export const About = () => {
               <li className={styles.aboutItem}>
                 <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
                 <div className={styles.aboutItemText}>
-                  <h3>Diseñadora Front-end</h3>
+                  <h3>Desarrolladora Front-end</h3>
                   <p>
-                    Desarrolladora web, con experiencia en HTML, CSS, JavaScript,  <br /> Vuejs,
-                    Bootstrap, WordPress, Nodejs.
+                    Tengo 2 años de experiencia en desarrollo web en HTML5, CSS3, JavaScript, Bootstrap...
+                    Creacion y mantenimiento de sitios web con WordPress.
                   </p>
                 </div>
               </li>
